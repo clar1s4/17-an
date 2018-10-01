@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 1b7746465bc8d754ebcf9cbc21bb76a2
+timeCreated: 1526967627
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ungu Char Sprite-Sheet_0
+    21300002: Ungu Char Sprite-Sheet_1
+    21300004: Ungu Char Sprite-Sheet_2
+    21300006: Ungu Char Sprite-Sheet_3
+    21300008: Ungu Char Sprite-Sheet_4
+    21300010: Ungu Char Sprite-Sheet_5
+    21300012: Ungu Char Sprite-Sheet_6
+    21300014: Ungu Char Sprite-Sheet_7
+    21300016: Ungu Char Sprite-Sheet_8
+    21300018: Ungu Char Sprite-Sheet_9
+    21300020: Ungu Char Sprite-Sheet_10
+    21300022: Ungu Char Sprite-Sheet_11
+    21300024: Ungu Char Sprite-Sheet_12
+    21300026: Ungu Char Sprite-Sheet_13
+    21300028: Ungu Char Sprite-Sheet_14
+    21300030: Ungu Char Sprite-Sheet_15
+    21300032: Ungu Char Sprite-Sheet_16
+    21300034: Ungu Char Sprite-Sheet_17
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 282
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 796
+        width: 287
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 796
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 796
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 796
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 512
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 796
+        width: 284
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 514
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 514
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 514
+        width: 284
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 514
+        width: 284
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 229
+        width: 287
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 228
+        width: 284
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 229
+        width: 284
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 229
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ungu Char Sprite-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 229
+        width: 284
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
